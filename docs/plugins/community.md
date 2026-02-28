@@ -50,7 +50,7 @@ Use this format when adding entries:
   repo: `https://github.com/icesword0760/openclaw-wechat`
   install: `openclaw plugins install @icesword760/openclaw-wechat`
 
-- **QQbot** - The Openclaw channel plugin for the Bot API of the QQ Open Platform (QQ, a chat software with 500 million monthly active users) supports C2C private chats, group chats @ messages, and channel messages.
+- **QQbot** — The Openclaw channel plugin for the Bot API of the QQ Open Platform (QQ, a chat software with 500 million monthly active users) supports C2C private chats, group chats @ messages, and channel messages.
   npm: `@sliverp/qqbot@latest`
   repo: `https://github.com/sliverp/qqbot`
   install: `openclaw plugins install @sliverp/qqbot@latest`
